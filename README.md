@@ -7,7 +7,7 @@ I like to make web applications using:
 
 [Bun](https://github.com/oven-sh/bun), [Elysia](https://github.com/elysiajs/elysia), [SQLite](https://github.com/sqlite), [Preact](https://github.com/preactjs/preact), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Docker](https://github.com/docker).
 
-[![=](https://skillicons.dev/icons?i=ts,bun,elysia,sqlite,preact,tailwind,docker)](https://skillicons.dev)
+[![=](https://skillicons.dev/icons?i=ts,bun,elysia,sqlite,react,tailwind,docker)](https://skillicons.dev)
 
 My guiding star is - make it simple, efficient, and friendly 🌟
 

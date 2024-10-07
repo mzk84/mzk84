@@ -17,6 +17,8 @@ In future, I would like to use TypeScript for mobile applications with React Nat
 
 And, I like to help others learn modern web development!
 
+For the end of this intro, here's one nice little bear 🐻
+
 Cheers! 🥨 🍺
 
 <!--

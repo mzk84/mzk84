@@ -6,6 +6,7 @@ I like to write code in TypeScript. At present, I like to make web applications 
 My guiding star is - make it simple, efficient, and friendly.
 
 Besides, I like to draw in HTML canvas.
+
 And, I like to help others learn modern web development!
 
 Cheers! 🥨 🍺

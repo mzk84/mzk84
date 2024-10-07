@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I like to write code in TypeScript. At present, I like to make web applications using:
+[@oven-sh/bun](https://github.com/oven-sh/bun), [@elysiajs](https://github.com/elysiajs/elysia), [SQLite](https://github.com/sqlite), [Preact](https://github.com/preactjs/preact), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Docker](https://github.com/docker).
+
+My guiding star is - make it simple, efficient, and friendly.
+
+Besides, I like to draw in HTML canvas.
+And, I like to help others learn modern web development!
+
+Cheers! 🥨 🍺
+
 <!--
 **mzk84/mzk84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

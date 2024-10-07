@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I like to write code in TypeScript. At present, I like to make web applications using:
+I like to write code in TypeScript.
+
+At present, I like to make web applications using:
+
+
 [Bun](https://github.com/oven-sh/bun), [Elysia](https://github.com/elysiajs/elysia), [SQLite](https://github.com/sqlite), [Preact](https://github.com/preactjs/preact), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Docker](https://github.com/docker).
 
 My guiding star is - make it simple, efficient, and friendly.

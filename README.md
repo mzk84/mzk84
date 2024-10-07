@@ -11,7 +11,7 @@ My guiding star is - make it simple, efficient, and friendly 🌟
 
 Besides, I like to draw in HTML canvas.
 
-In future, I would like to explore using TypeScript for mobile applications with React Native & Expo.
+In future, I would like to use TypeScript for mobile applications with React Native & Expo.
 
 And, I like to help others learn modern web development!
 

@@ -2,8 +2,9 @@
 
 I like TypeScript.
 
-I like to make web applications using:
+I like to make web applications.
 
+My tech stack is:
 
 [Bun](https://github.com/oven-sh/bun), [Elysia](https://github.com/elysiajs/elysia), [SQLite](https://github.com/sqlite), [Preact](https://github.com/preactjs/preact), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Docker](https://github.com/docker).
 
@@ -20,18 +21,3 @@ And, I like to help others learn modern web development!
 For the end of this intro, here's one nice little bear 🐻
 
 Cheers! 🥨 🍺
-
-<!--
-**mzk84/mzk84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

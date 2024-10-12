@@ -2,13 +2,11 @@
 
 I like TypeScript.
 
-I like to make web applications.
-
-My tech stack is:
+My focus is currently on:
 
 [Bun](https://github.com/oven-sh/bun), [Elysia](https://github.com/elysiajs/elysia), [SQLite](https://github.com/sqlite), [Preact](https://github.com/preactjs/preact), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Docker](https://github.com/docker).
 
-[![=](https://skillicons.dev/icons?i=ts,bun,elysia,sqlite,react,tailwind,docker)](https://skillicons.dev)
+[![=](https://skillicons.dev/icons?i=ts,bun,elysia,prisma,sqlite,preact,tailwind,docker)](https://skillicons.dev)
 
 My guiding star is - make it simple, efficient, and friendly 🌟
 

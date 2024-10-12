@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I like TypeScript.
+I ❤️ TypeScript.
 
-My focus is currently on:
+My focus is currently on the following tech stack:
 
-[Bun](https://github.com/oven-sh/bun), [Elysia](https://github.com/elysiajs/elysia), [SQLite](https://github.com/sqlite), [Preact](https://github.com/preactjs/preact), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Docker](https://github.com/docker).
+[Bun](https://github.com/oven-sh/bun), [Elysia](https://github.com/elysiajs/elysia), [Prisma](https://github.com/prisma), [SQLite](https://github.com/sqlite), [Preact](https://github.com/preactjs/preact), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Docker](https://github.com/docker).
 
-[![=](https://skillicons.dev/icons?i=ts,bun,elysia,prisma,sqlite,preact,tailwind,docker)](https://skillicons.dev)
+[![=](https://skillicons.dev/icons?i=ts,bun,elysia,prisma,sqlite,react,tailwind,docker)](https://skillicons.dev)
 
 My guiding star is - make it simple, efficient, and friendly 🌟
 

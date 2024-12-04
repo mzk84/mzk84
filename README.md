@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I play with JavaScript by using it for both web and mobile applications development.
+I play with JavaScript by making web and mobile applications.
 My focus is currently on the following tech stack:
 
 [Node](https://github.com/nodejs/node), [Express](https://github.com/expressjs/express), [Sequelize](https://github.com/sequelize/sequelize), [SQLite](https://github.com/sqlite), [Preact](https://github.com/preactjs/preact), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Docker](https://github.com/docker).

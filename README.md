@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I have some years of experience with C++. 
+I have some years of experience with C++.
+People working with me say that I can make pretty much any kind of software with it.
 
 [![=](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
-People working with me say that I can make pretty much any kind of software with it.
 
 Recreationally, I write JavaScript. I like to draw in HTML5 canvas.
 

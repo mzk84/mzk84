@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I have decades of experience in C++.
+When I catch some time, I like to play with TypeScript for web and mobile applications.
+
 <!--
 **mzk84/mzk84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

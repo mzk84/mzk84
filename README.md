@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I have decades of professional experience in C++.
-When I catch some time, I like to play with Python, FastAPI, SQLAlchemy, HTMX, Pico CSS.
-Also, I am trying to make something for Android and iOS using React Native and Expo.
+When I catch some time, I like to play with Go, HTMX, Pico CSS.
+Also, I am trying to make something for Android and iOS using Dart and Flutter.
 
 <!--
 **mzk84/mzk84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

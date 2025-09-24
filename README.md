@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I have decades of professional experience in C++.
-When I catch some time, I like to play with Go, HTMX, Pico CSS.
+When I catch some time, I like to play with Go.
 Also, I am trying to make something for Android and iOS using Dart and Flutter.
 
 <!--
